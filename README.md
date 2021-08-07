@@ -2,6 +2,8 @@
 <h3 align="center">A Full-stack developer growing up</h3>
 <h4 align="center"> 📌🏝️ Canary Islands, Spain 
 
+  
+  <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/karolarizag/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
