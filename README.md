@@ -56,7 +56,4 @@
    <br>
 </p> 
 <hr>
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/karolarizag/karolarizag?color=white" alt="Visitors badge" />
- </a>
 
