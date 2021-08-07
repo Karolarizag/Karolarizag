@@ -1,5 +1,6 @@
 <h1 align="center"> 💥 Karol's place 💥 </h1>
-<h3 align="center">A Full-stack developer growing up in Spain</h3>
+<h3 align="center">A Full-stack developer growing up</h3>
+<h4 align="center"> 📌🏝️ Canary Islands, Spain 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -8,9 +9,9 @@
 </p>
 
 <p> 
-  Hello there!
-  🤓 I am a new developer, learning everyday and working in the process, a (developer) little bit shy and insecure but going step by step to all the projects!
-  🖌️ More in the frontEnd, but full-stack as well, consider myself a design buff.
+  Hello there!<br/>
+  🤓 I am a new developer, learning everyday and working in the process, a (developer) little bit shy and insecure but going step by step to all the projects!<br/>
+  🖌️ More in the frontEnd, but full-stack as well, consider myself a design buff.<br/>
   
   Love to travel. playing videogames, read, go to the beach, cook, watching movies, meditation and basically everything that keeps my mind busy and this is why I am deeply in love with develop... well, it's a love and hate relationship but we are working in it! 😆
 </p>
@@ -44,3 +45,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
+
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  holis
