@@ -42,6 +42,9 @@
   </a> 
 </p>  
  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /><br/>
+
+  
 <hr>
 <p align="center">
    <i>“And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.”</i>
