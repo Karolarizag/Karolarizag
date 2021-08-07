@@ -35,4 +35,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
 
-<p>&nbsp;<img right="center" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
+<p>&nbsp;<img right="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
