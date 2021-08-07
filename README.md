@@ -1,4 +1,4 @@
-<h1 align="center"> 💥 Karol's profile 💥 </h1>
+<h1 align="center"> 💥 Karol's place 💥 </h1>
 <h3 align="center">A Full-stack developer growing up in Spain</h3>
 
 <h3 align="center">Connect with me:</h3>
