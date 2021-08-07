@@ -47,6 +47,16 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
 
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  holis
+ 
+<hr>
+<p align="center">
+   <i>“And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.”</i>
+   <br>
+   <i> – The great Gatsby - </i>
+   <br>
+</p> 
+<hr>
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/karolarizag/karolarizag?color=white" alt="Visitors badge" />
+ </a>
+
