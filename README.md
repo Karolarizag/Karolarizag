@@ -40,12 +40,7 @@
   </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
   </a> 
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /><br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /><br/>
-
-  
+</p>  
  
 <hr>
 <p align="center">
