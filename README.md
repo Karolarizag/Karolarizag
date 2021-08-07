@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Karol!</h1>
+<h1 align="center"> 💥 Karol's profile 💥 </h1>
 <h3 align="center">A Full-stack developer growing up in Spain</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/karolarizag/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:karolarizag@gmail.com?subject=Hello%Karol,%20I%20contact%20you%20from%20Github,%20how%20are%20you?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p> 
+  Hello there!
+  🤓 I am a new developer, learning everyday and working in the process, a (developer) little bit shy and insecure but going step by step to all the projects!
+  🖌️ More in the frontEnd, but full-stack as well, consider myself a design buff.
+  
+  Love to travel. playing videogames, read, go to the beach, cook, watching movies, meditation and basically everything that keeps my mind busy and this is why I am deeply in love with develop... well, it's a love and hate relationship but we are working in it! 😆
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -35,4 +43,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
 
-<p>&nbsp;<img right="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
