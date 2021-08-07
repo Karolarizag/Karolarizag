@@ -43,7 +43,7 @@
 </p>  
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /><br/>
 
   
 <hr>
