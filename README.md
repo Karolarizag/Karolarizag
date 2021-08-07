@@ -2,8 +2,9 @@
 <h3 align="center">A Full-stack developer growing up in Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karolarizag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolarizag" height="30" width="40" /></a>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/karolarizag/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:karolarizag@gmail.com?subject=Hello%Karol,%20I%20contact%20you%20from%20Github,%20how%20are%20you?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
