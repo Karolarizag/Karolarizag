@@ -45,7 +45,9 @@
 </p>  
  
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p><br/>
   
 <hr>
 <p align="center">
