@@ -46,13 +46,13 @@ After switching careers, I've been learning developing. Last year I started with
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karolarizag&" alt="karolarizag" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karolarizag&" alt="karolarizag" /></p>
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karolarizag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/karolarizag" /></a></p><br>
