@@ -44,15 +44,5 @@ After switching careers, I've been learning developing. Last year I started with
 
 <a href="http://www.github.com/Karolarizag"><img src="https://activity-graph.herokuapp.com/graph?username=Karolarizag&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karolarizag&show_icons=true&locale=en&layout=compact" alt="karolarizag" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolarizag&show_icons=true&locale=en" alt="karolarizag" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karolarizag&" alt="karolarizag" /></p>
-<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karolarizag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/karolarizag" /></a></p><br>
