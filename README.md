@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack web developer.
 -------------------------
 
-After switching careers, I've been learning developing. Last year I started with a Bootcamp where I learned a lot, and now doing it by myself.
-
 * 🌍  I'm based in Tenerife, Canary Islands
 * ✉️  You can contact me at [karolarizadev@gmail.com](mailto:karolarizadev@gmail.com)
 * 🧠  I'm learning React - Next - TypeScript
