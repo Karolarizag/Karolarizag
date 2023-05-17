@@ -6,10 +6,10 @@
 ### <div align="center">I'm Karol, a full-time front end developer 👨‍💻 working from Canary Islands 🏝️</div>  
   
 
-- 🦾 I’m currently working on [MoviesApp](https://github.com/Karolarizag/moviesapp)  
+- 🦾 I’m currently working on [Netflix](https://github.com/Karolarizag/moviesapp)  
   
 
-- 🤓 I’m currently learning React & Next  
+- 🤓 I’m currently learning Angular  
   
 
 - ⚡ I'm open to colaborate in any project where I can improve my skills  
