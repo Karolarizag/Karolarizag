@@ -6,7 +6,7 @@
 ### <div align="center">I'm Karol, a full-time front end developer 👨‍💻 working from Canary Islands 🏝️</div>  
   
 
-- 🦾 I’m currently working on [Netflix (copy)](https://github.com/Karolarizag/moviesapp)  
+- 🦾 I’m currently working on [Netflix (copy)](https://github.com/Karolarizag/netflix)  
   
 
 - 🤓 I’m currently learning Angular  
