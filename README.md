@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Karol, a full-time front end developer 👨‍💻 working from Canary Islands 🏝️</div>  
+### <div align="center">I'm Karol, Front end software engineer at Epam Systems 👨‍💻 working from Canary Islands 🏝️</div>  
   
 
 - 🦾 I’m currently working on [Netflix (copy)](https://github.com/Karolarizag/netflix)  
