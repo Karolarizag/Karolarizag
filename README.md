@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Karol, Front End Developer at Epam Systems 👨‍💻 working from Canary Islands 🏝️</div>  
-## <div>You are invited to check out my (portfolio)[https://karolariza.netlify.app/]!</div>
+## <div>You are invited to check out my [portfolio](https://karolariza.netlify.app/)!</div>
   
 
 - 🦾 I’m currently working on [Netflix (copy)](https://github.com/Karolarizag/netflix)  
