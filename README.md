@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Karol Ariza based in Canary Islands. <br><br>- 🔭 I’m working as Software Engineer at Epam Systems. <br>- 📚 I'm currently learning Angular.<br>- ⚡ In my free time I do whatever to keep my mind busy.</p>
+<p align="left">I'm Karol Ariza based in Canary Islands. <br><br>-</p>
 
 ###
 
