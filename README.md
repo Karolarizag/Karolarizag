@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Karol Ariza based in Canary Islands. <br><br>-</p>
+<p align="left">I'm Karol Ariza based in Canary Islands.</p>
 
 ###
 
@@ -75,9 +75,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Karolarizag/Karolarizag/output/snake.svg" alt="Snake animation" />
-
-###
