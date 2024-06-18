@@ -1,20 +1,10 @@
-<div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/754119455151358103/1026916274661494834/projects.PNG?width=754&height=605"  />
-</div>
-
-###
-
 <h1 align="center">Hi there!👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Karol Ariza based in Canary Islands.</p>
+<p align="left">I'm Karol Ariza, Front End Developer @ Epam Systems based in Canary Islands.</p>
 
 ###
 
